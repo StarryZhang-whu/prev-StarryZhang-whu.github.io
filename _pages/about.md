@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Wuhan University</a>. Wuhan, China. 
+subtitle: <a href='https://en.whu.edu.cn/'>Wuhan University</a>. Wuhan, China. 
 
 profile:
   align: right
