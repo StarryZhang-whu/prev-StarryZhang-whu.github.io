@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-There is Linghao Zhang. I'm an undergraduate (3rd year) studying at School of Computer Science, Wuhan University.
+There is Linghao Zhang (张凌浩). I'm an undergraduate (3rd year) studying at School of Computer Science, Wuhan University.
 
-My research interests focus on AI, LLM and their applications of software engineering. **I'm looking for a PhD position in 25fall.**
+My research interests focus on AI, LLM and their applications of software engineering. Includes code synthesis tasks, NL-PL models. **I'm looking for a PhD position in 25fall.**
