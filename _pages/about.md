@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! My name is Linghao Zhang (张凌浩). I'm an undergraduate (3rd year) studying at School of Computer Science, Wuhan University, supervised by [Peng Liang](https://www.researchgate.net/profile/Peng-Liang-4).
+Hi there! My name is Linghao Zhang (张凌浩). I'm an undergraduate (3rd year) studying at School of Computer Science, Wuhan University, supervised by [Peng Liang](https://www.researchgate.net/profile/Peng-Liang-4) and [Chong Wang](https://www.researchgate.net/profile/Chong-Wang-13).
 
-My research interests focus on AI, LLM and their applications of software engineering. Includes code synthesis tasks, NL-PL models. **I'm looking for a PhD position in 25fall.**
+My research interests focus on AI, LLM and their applications of Software Engineering, the intersection of Software Engineering and Machine Learning. Includes code synthesis tasks, NL-PL models. **I'm looking for a PhD position in 25fall.**
